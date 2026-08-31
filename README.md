@@ -1,121 +1,52 @@
 <div align="center">
 
-# 👋 Hey, I'm Adhithiya
+# 👋 Hi, I'm Adhithiya
 
-### `Curious mind → Code → Data → AI → Build.`
+### AI & Data Science Student · Python Developer · ML Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;I+learn+by+building.;Exploring+AI+%26+Data+Science;Turning+ideas+into+projects.;The+journey+is+just+getting+started." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=650&lines=Curious+by+nature.;Learning+through+building.;Turning+data+into+ideas.;Exploring+AI+%26+Machine+Learning.;Still+writing+the+story..." />
 
-<br><br>
+<br>
 
-<a href="mailto:adhithiyav358@gmail.com">
-<img src="https://img.shields.io/badge/Email%20Me-00F7FF?style=for-the-badge&logo=gmail&logoColor=black" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/Adhithiya-77">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="mailto:adhithiyav358@gmail.com">📧 Email</a> ·
+<a href="YOUR_LINKEDIN_URL">💼 LinkedIn</a> ·
+<a href="YOUR_LEETCODE_URL">🧩 LeetCode</a> ·
+<a href="https://github.com/Adhithiya-77">🐙 GitHub</a>
 
 </div>
 
 ---
 
-## 🧭 My Story
+## 🧭 The Story
 
-I started with a simple question:
+I started with one question:
 
-### **"How does this actually work?"**
+**"How does this actually work?"**
 
-That question turned into code.
+That question led me to programming.  
+Programming led me to problem solving.  
+Problem solving led me to data.  
+And data pulled me into **AI & Machine Learning**.
 
-Code led me to **problem solving**.  
-Problem solving led me to **data**.  
-And data eventually led me to **Artificial Intelligence and Machine Learning**.
+Today, I'm learning by building, experimenting, solving problems, and turning concepts into projects.
 
-Now I'm learning, experimenting, breaking things, fixing them, and building again.
-
-### **I'm just getting started.**
-
----
-
-## 🔎 What I'm Exploring
-
-<table align="center">
-<tr>
-<td align="center">🐍<br><b>Python</b></td>
-<td align="center">📊<br><b>Data Science</b></td>
-<td align="center">🤖<br><b>Machine Learning</b></td>
-</tr>
-<tr>
-<td align="center">🧠<br><b>Artificial Intelligence</b></td>
-<td align="center">📐<br><b>Mathematics</b></td>
-<td align="center">💻<br><b>Problem Solving</b></td>
-</tr>
-</table>
+**I'm not trying to know everything. I'm trying to get better every day.**
 
 ---
 
-## 🚀 Right Now
+## 🚀 Currently
 
-<div align="center">
+**Learning** → Python · DSA · Mathematics · Statistics · Machine Learning
 
-**📚 LEARN**  
-↓  
-**🧠 UNDERSTAND**  
-↓  
-**🔨 BUILD**  
-↓  
-**💥 BREAK**  
-↓  
-**🔧 FIX**  
-↓  
-**🚀 BUILD AGAIN**
+**Building** → AI/ML · Data Science · Python Projects
 
-</div>
+**Solving** → 180+ LeetCode problems
 
-I'm currently focused on strengthening my fundamentals, building AI/ML projects, solving problems, and turning what I learn into practical projects.
+**Preparing** → GATE DA
 
 ---
 
-<details>
-<summary><b>🎓 A Little More About Me</b></summary>
-
-<br>
-
-I'm an **AI & Data Science student** who prefers learning by doing.
-
-I enjoy taking complicated concepts, breaking them into smaller pieces, understanding how they work, and eventually turning them into code.
-
-My main interests are:
-
-**Artificial Intelligence • Machine Learning • Data Science • Python • Algorithms • Mathematics**
-
-I'm also working on becoming a stronger problem solver and building projects that demonstrate what I learn.
-
-</details>
-
-<br>
-
-<details>
-<summary><b>🎯 What's the Goal?</b></summary>
-
-<br>
-
-Not just collecting technologies.
-
-Not just completing tutorials.
-
-The goal is to become someone who can look at a problem and say:
-
-### **"I can build something for that."**
-
-</details>
-
----
-
-## ⚡ My Toolkit
+## ⚡ My Stack
 
 <div align="center">
 
@@ -125,104 +56,46 @@ The goal is to become someone who can look at a problem and say:
 
 ---
 
-## 📈 The Journey So Far
+## 🔨 How I Learn
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Adhithiya-77&theme=tokyonight&hide_border=true" />
+**Learn** → **Understand** → **Build** → **Break** → **Fix** → **Repeat**
 
 </div>
 
----
+I believe the best way to understand technology is to **build with it**.
 
-## 🛠️ Things I'm Building
-
-<table align="center">
-<tr>
-<td width="33%" align="center">
-
-### 🤖 AI / ML
-
-`Data`  
-↓  
-`Model`  
-↓  
-`Prediction`  
-↓  
-`Experiment`
-
-</td>
-
-<td width="33%" align="center">
-
-### 📊 Data Science
-
-`Raw Data`  
-↓  
-`Analysis`  
-↓  
-`Insights`  
-↓  
-`Visualization`
-
-</td>
-
-<td width="33%" align="center">
-
-### 💻 Development
-
-`Idea`  
-↓  
-`Code`  
-↓  
-`Debug`  
-↓  
-`Build`
-
-</td>
-</tr>
-</table>
-
-> More projects coming soon.
+Every project teaches me something new.  
+Every bug makes me understand something deeper.  
+Every solved problem moves me one step forward.
 
 ---
 
-## 🗺️ Where I'm Going
+## 🎯 Where I'm Going
+
+**Strong fundamentals → Better projects → Real-world AI → Bigger problems**
+
+My goal is simple:
+
+> **Become someone who can take a problem, understand it, and build a solution.**
+
+---
+
+## 📬 Let's Connect
 
 <div align="center">
-
-### 📚 Learn Deeply
-⬇️
-### 🧠 Understand
-⬇️
-### 🔨 Build
-⬇️
-### 🤖 AI / ML
-⬇️
-### 🌍 Real-World Problems
-⬇️
-### 🚀 Create Something Useful
-
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-### Have an idea? Let's talk.
-
-<br>
 
 <a href="mailto:adhithiyav358@gmail.com">
-<img src="https://img.shields.io/badge/✉️%20Email%20Me-adhithiyav358%40gmail.com-00F7FF?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-adhithiyav358%40gmail.com-00F7FF?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
 
-<br><br>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<a href="https://github.com/Adhithiya-77">
-<img src="https://img.shields.io/badge/Follow%20me%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LeetCode-180%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 </div>
@@ -231,10 +104,8 @@ The goal is to become someone who can look at a problem and say:
 
 <div align="center">
 
-### `Learn. Build. Fail. Understand. Repeat. 🚀`
+### `Learn. Build. Solve. Repeat. 🚀`
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=80&section=footer" />
 
 </div>
