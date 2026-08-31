@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Adhithiya
 
-### AI & Data Science Student · Python Developer · ML Enthusiast
+### AI & Data Science Student · Python Developer · Machine Learning Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=650&lines=Curious+by+nature.;Learning+through+building.;Turning+data+into+ideas.;Exploring+AI+%26+Machine+Learning.;Still+writing+the+story..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2400&pause=650&color=00F7FF&center=true&vCenter=true&width=760&lines=Curious+by+nature.;Learning+through+building.;Solving+problems+with+code.;Exploring+AI+%26+Machine+Learning.;Turning+data+into+ideas.;Building+the+next+chapter." />
 
 <br>
 
@@ -28,37 +28,117 @@
 
 ---
 
-## 🧭 The Story
+## 🧑‍💻 Who I Am
 
-I started with a simple question:
+I'm an **AI & Data Science student** with a growing interest in the way **data, algorithms, and intelligent systems** come together.
 
-> **"How does this actually work?"**
+I enjoy going beyond simply using a technology. I want to understand **why it works, how it works, and where it can be useful**.
 
-That question led me to programming.
+My journey is currently centered around:
 
-Programming led me to problem solving.  
-Problem solving led me to data.  
-And data led me to **AI & Machine Learning**.
+**Programming → Problem Solving → Data → Machine Learning → Artificial Intelligence**
 
-Today, I'm learning by building, solving problems, experimenting with ideas, and turning concepts into projects.
+I'm building my fundamentals, solving algorithmic problems, experimenting with projects, and gradually moving from learning concepts to applying them.
 
-**I'm not trying to know everything. I'm trying to get better every day.**
+> **My approach is simple: understand deeply, build consistently, and improve continuously.**
 
 ---
 
-## 🚀 Where I Am Now
+## 🧭 My Journey
 
-**Learning** → Python · DSA · Mathematics · Statistics · Machine Learning
+<table>
+<tr>
+<td width="25%" align="center">
 
-**Building** → AI/ML · Data Science · Python Projects
+### 💻
+**Programming**
 
-**Solving** → 180+ LeetCode Problems
+Learning to think in code and turn ideas into working solutions.
 
-**Preparing** → GATE DA
+</td>
+
+<td width="25%" align="center">
+
+### 🧩
+**Problem Solving**
+
+Breaking difficult problems into smaller, solvable pieces.
+
+</td>
+
+<td width="25%" align="center">
+
+### 📊
+**Data**
+
+Learning how raw information can become meaningful insights.
+
+</td>
+
+<td width="25%" align="center">
+
+### 🤖
+**AI / ML**
+
+Exploring how machines can learn patterns and make decisions.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**Where I started**  
+↓  
+**Where I am**  
+↓  
+**Where I'm going**
+
+</div>
 
 ---
 
-## ⚡ My Toolkit
+## 🚀 What I'm Doing Right Now
+
+<table>
+<tr>
+<td width="50%">
+
+### 📚 Learning
+
+- Python
+- Data Structures & Algorithms
+- Statistics & Probability
+- Linear Algebra
+- Machine Learning
+- Data Science
+- Mathematics for AI
+
+</td>
+
+<td width="50%">
+
+### 🔨 Building
+
+- Python projects
+- AI / ML experiments
+- Data analysis projects
+- Problem-solving solutions
+- Projects that turn concepts into practice
+
+</td>
+</tr>
+</table>
+
+### 🎯 Current Direction
+
+**Strong Fundamentals → Better Problem Solving → Better Projects → Real-World AI**
+
+I'm focused on building the foundation first rather than rushing through technologies.
+
+---
+
+## ⚡ My Technical Toolkit
 
 <div align="center">
 
@@ -66,61 +146,207 @@ Today, I'm learning by building, solving problems, experimenting with ideas, and
 
 </div>
 
+<br>
+
+| Area | Focus |
+| :--- | :--- |
+| 🐍 **Programming** | Python · C · C++ · Java · JavaScript |
+| 🤖 **AI / ML** | Machine Learning · Deep Learning · Model experimentation |
+| 📊 **Data** | Data Analysis · Statistics · Data Visualization |
+| 🧠 **Core** | DSA · Problem Solving · Mathematics |
+| 🗄️ **Database** | MySQL · SQL |
+| 🛠️ **Tools** | Git · GitHub · VS Code · Linux |
+
 ---
 
-## 🔨 How I Grow
+## 🧩 Problem Solving
+
+One of the ways I improve my programming fundamentals is by solving algorithmic problems.
+
+### **180+ LeetCode Problems Solved**
+
+<a href="https://leetcode.com/u/Adhithiya_/">
+<img src="https://img.shields.io/badge/View%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+I'm not treating problem solving as just a number.
+
+The real goal is to improve:
+
+**Logic → Pattern Recognition → Algorithms → Optimization → Consistency**
+
+---
+
+## 🧠 How I Learn
 
 <div align="center">
 
-**Learn** → **Understand** → **Build** → **Break** → **Fix** → **Repeat**
+### **01 — Learn**
+Understand the concept.
+
+↓
+
+### **02 — Question**
+Ask why it works.
+
+↓
+
+### **03 — Practice**
+Solve problems around it.
+
+↓
+
+### **04 — Build**
+Use it in a project.
+
+↓
+
+### **05 — Debug**
+Find what I don't understand.
+
+↓
+
+### **06 — Improve**
+Come back stronger.
 
 </div>
 
-Every project teaches me something.
-
-Every bug forces me to understand something deeper.
-
-Every problem I solve moves me one step closer to becoming the developer I want to be.
+> **I believe understanding comes from doing, not just watching.**
 
 ---
 
-## 🎯 The Next Chapter
-
-**Strong fundamentals → Better projects → Real-world AI → Bigger problems**
-
-My goal isn't just to learn technology.
-
-### **It's to become someone who can take a problem and build a solution.**
-
----
+## 🔬 What Interests Me
 
 <details>
-<summary><b>🌱 A Little More About Me</b></summary>
+<summary><b>🤖 Artificial Intelligence & Machine Learning</b></summary>
 
 <br>
 
-I'm an **AI & Data Science student** interested in the intersection of **data, intelligence, and software**.
+I'm interested in how machines learn from data and how algorithms can be used to solve real problems.
 
-I enjoy:
+Areas I'm exploring include:
 
-- Building with Python
-- Exploring Machine Learning
-- Solving algorithmic problems
-- Understanding the mathematics behind AI
-- Turning ideas into practical projects
+- Supervised Learning
+- Unsupervised Learning
+- Model Evaluation
+- Feature Engineering
+- Neural Networks
+- Deep Learning
+- Practical ML workflows
 
-I'm currently focused on building a strong technical foundation and creating work that speaks for itself.
+</details>
+
+<details>
+<summary><b>📊 Data Science</b></summary>
+
+<br>
+
+I'm interested in the complete journey from raw data to useful information:
+
+**Collect → Clean → Explore → Analyze → Visualize → Understand → Decide**
+
+The goal isn't simply creating charts.
+
+It's learning how to extract **useful information from data**.
+
+</details>
+
+<details>
+<summary><b>💻 Programming & Problem Solving</b></summary>
+
+<br>
+
+Programming is the foundation behind everything I want to build.
+
+I'm continuously improving:
+
+- Algorithms
+- Data Structures
+- Computational thinking
+- Code quality
+- Debugging
+- Optimization
 
 </details>
 
 ---
 
-## 📬 Let's Connect
+## 🛠️ Things I'm Building
+
+### 🤖 AI / Machine Learning
+
+**Data → Features → Model → Evaluation → Prediction**
+
+I'm interested in projects where machine learning is used to solve a meaningful problem rather than simply demonstrating a model.
+
+### 📊 Data Science
+
+**Raw Data → Cleaning → Exploration → Visualization → Insights**
+
+I want my data projects to answer questions, not just display graphs.
+
+### 💻 Software Projects
+
+**Idea → Design → Code → Test → Debug → Improve**
+
+Every project is an opportunity to turn something I learned into something tangible.
+
+---
+
+## 🎓 Current Mission
+
+I'm currently working toward becoming stronger across the fundamentals of **AI & Data Science**, while also preparing for **GATE DA**.
+
+My focus is not on rushing.
+
+It's on building a foundation strong enough to support everything that comes later.
 
 <div align="center">
 
+**Python**  
+↓  
+**Mathematics & Statistics**  
+↓  
+**Data Structures & Algorithms**  
+↓  
+**Data Science**  
+↓  
+**Machine Learning**  
+↓  
+**Artificial Intelligence**  
+↓  
+**Real-World Projects**
+
+</div>
+
+---
+
+## 🌱 The Next Chapter
+
+There is still a lot to learn.
+
+More algorithms to understand.  
+More datasets to explore.  
+More models to experiment with.  
+More projects to build.  
+More problems to solve.
+
+And that's what makes the journey interesting.
+
+### **I'm not finished. I'm building.**
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+If you're interested in **AI, Data Science, Machine Learning, programming, or building interesting things**, let's connect.
+
+<br>
+
 <a href="mailto:adhithiyav358@gmail.com">
-<img src="https://img.shields.io/badge/✉️%20Email%20Me-adhithiyav358%40gmail.com-00F7FF?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/✉️%20Email-adhithiyav358%40gmail.com-00F7FF?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
 
 <a href="https://www.linkedin.com/in/adhithiya-v-a9330632b/">
@@ -128,7 +354,11 @@ I'm currently focused on building a strong technical foundation and creating wor
 </a>
 
 <a href="https://leetcode.com/u/Adhithiya_/">
-<img src="https://img.shields.io/badge/🧩%20LeetCode-180%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/🧩%20LeetCode-180%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://github.com/Adhithiya-77">
+<img src="https://img.shields.io/badge/🐙%20GitHub-Adhithiya--77-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -137,6 +367,10 @@ I'm currently focused on building a strong technical foundation and creating wor
 
 <div align="center">
 
-### `Learn. Build. Solve. Repeat. 🚀`
+### `Learn → Build → Solve → Improve → Repeat`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=90&section=footer" />
 
 </div>
