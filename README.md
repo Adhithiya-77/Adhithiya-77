@@ -8,10 +8,21 @@
 
 <br>
 
-<a href="mailto:adhithiyav358@gmail.com">📧 Email</a> ·
-<a href="YOUR_LINKEDIN_URL">💼 LinkedIn</a> ·
-<a href="YOUR_LEETCODE_URL">🧩 LeetCode</a> ·
-<a href="https://github.com/Adhithiya-77">🐙 GitHub</a>
+<a href="mailto:adhithiyav358@gmail.com">
+<img src="https://img.shields.io/badge/Email-adhithiyav358%40gmail.com-00F7FF?style=for-the-badge&logo=gmail&logoColor=black" />
+</a>
+
+<a href="https://www.linkedin.com/in/adhithiya-v-a9330632b/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/Adhithiya_/">
+<img src="https://img.shields.io/badge/LeetCode-180%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://github.com/Adhithiya-77">
+<img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -19,34 +30,35 @@
 
 ## 🧭 The Story
 
-I started with one question:
+I started with a simple question:
 
-**"How does this actually work?"**
+> **"How does this actually work?"**
 
-That question led me to programming.  
+That question led me to programming.
+
 Programming led me to problem solving.  
 Problem solving led me to data.  
-And data pulled me into **AI & Machine Learning**.
+And data led me to **AI & Machine Learning**.
 
-Today, I'm learning by building, experimenting, solving problems, and turning concepts into projects.
+Today, I'm learning by building, solving problems, experimenting with ideas, and turning concepts into projects.
 
 **I'm not trying to know everything. I'm trying to get better every day.**
 
 ---
 
-## 🚀 Currently
+## 🚀 Where I Am Now
 
 **Learning** → Python · DSA · Mathematics · Statistics · Machine Learning
 
 **Building** → AI/ML · Data Science · Python Projects
 
-**Solving** → 180+ LeetCode problems
+**Solving** → 180+ LeetCode Problems
 
 **Preparing** → GATE DA
 
 ---
 
-## ⚡ My Stack
+## ⚡ My Toolkit
 
 <div align="center">
 
@@ -56,7 +68,7 @@ Today, I'm learning by building, experimenting, solving problems, and turning co
 
 ---
 
-## 🔨 How I Learn
+## 🔨 How I Grow
 
 <div align="center">
 
@@ -64,21 +76,42 @@ Today, I'm learning by building, experimenting, solving problems, and turning co
 
 </div>
 
-I believe the best way to understand technology is to **build with it**.
+Every project teaches me something.
 
-Every project teaches me something new.  
-Every bug makes me understand something deeper.  
-Every solved problem moves me one step forward.
+Every bug forces me to understand something deeper.
+
+Every problem I solve moves me one step closer to becoming the developer I want to be.
 
 ---
 
-## 🎯 Where I'm Going
+## 🎯 The Next Chapter
 
 **Strong fundamentals → Better projects → Real-world AI → Bigger problems**
 
-My goal is simple:
+My goal isn't just to learn technology.
 
-> **Become someone who can take a problem, understand it, and build a solution.**
+### **It's to become someone who can take a problem and build a solution.**
+
+---
+
+<details>
+<summary><b>🌱 A Little More About Me</b></summary>
+
+<br>
+
+I'm an **AI & Data Science student** interested in the intersection of **data, intelligence, and software**.
+
+I enjoy:
+
+- Building with Python
+- Exploring Machine Learning
+- Solving algorithmic problems
+- Understanding the mathematics behind AI
+- Turning ideas into practical projects
+
+I'm currently focused on building a strong technical foundation and creating work that speaks for itself.
+
+</details>
 
 ---
 
@@ -87,15 +120,15 @@ My goal is simple:
 <div align="center">
 
 <a href="mailto:adhithiyav358@gmail.com">
-<img src="https://img.shields.io/badge/Email-adhithiyav358%40gmail.com-00F7FF?style=for-the-badge&logo=gmail&logoColor=black" />
+<img src="https://img.shields.io/badge/✉️%20Email%20Me-adhithiyav358%40gmail.com-00F7FF?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/adhithiya-v-a9330632b/">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-Adhithiya%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LeetCode-180%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<a href="https://leetcode.com/u/Adhithiya_/">
+<img src="https://img.shields.io/badge/🧩%20LeetCode-180%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 </div>
@@ -105,7 +138,5 @@ My goal is simple:
 <div align="center">
 
 ### `Learn. Build. Solve. Repeat. 🚀`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=80&section=footer" />
 
 </div>
