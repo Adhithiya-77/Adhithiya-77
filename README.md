@@ -181,35 +181,13 @@ The real goal is to improve:
 
 <div align="center">
 
-### **01 — Learn**
-Understand the concept.
-
-↓
-
-### **02 — Question**
-Ask why it works.
-
-↓
-
-### **03 — Practice**
-Solve problems around it.
-
-↓
-
-### **04 — Build**
-Use it in a project.
-
-↓
-
-### **05 — Debug**
-Find what I don't understand.
-
-↓
-
-### **06 — Improve**
-Come back stronger.
+| 01 — Learn | → | 02 — Question | → | 03 — Practice | → | 04 — Build | → | 05 — Debug | → | 06 — Improve |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Understand | | Ask why | | Solve | | Create | | Fix | | Grow |
 
 </div>
+
+> **Understand deeply. Build consistently. Improve continuously.**
 
 > **I believe understanding comes from doing, not just watching.**
 
