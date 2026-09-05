@@ -17,7 +17,7 @@
 </a>
 
 <a href="https://leetcode.com/u/Adhithiya_/">
-<img src="https://img.shields.io/badge/LeetCode-180%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/LeetCode-190%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 <a href="https://github.com/Adhithiya-77">
